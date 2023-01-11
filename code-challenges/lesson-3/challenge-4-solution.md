@@ -10,7 +10,7 @@ console.log(objectVariable.property3[2]);
 
 The code above is invalid because it contains semi-colons `;` in the wrong places.
 
-When creating objects, you need to place a comma after each object, NOT a semi-colon.
+When creating objects, you need to place a comma after each of the object's properties, NOT a semi-colon.
 
 Here is the fixed program that will properly run in your Console.
 
